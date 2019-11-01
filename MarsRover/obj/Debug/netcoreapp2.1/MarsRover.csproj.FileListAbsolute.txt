@@ -1,0 +1,13 @@
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.deps.json
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.runtimeconfig.json
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.runtimeconfig.dev.json
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.dll
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.pdb
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.AssemblyInfoInputs.cache
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.AssemblyInfo.cs
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.dll
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.pdb
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\TestPlans\a.txt
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\TestPlans\OutOfBounds.txt
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\README.txt
+C:\Users\micha\Source\Repos\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\TestPlans\b.txt
